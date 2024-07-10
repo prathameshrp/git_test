@@ -2,3 +2,5 @@ The itsy bitsy spider climbed  up the waterspout
 down came the rain and washed the spider out.
 out came the sun and  dried up all the rain
 so the itsy bitsy spider climber up the spout again. 
+
+Added another text comment!
